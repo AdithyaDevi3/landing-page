@@ -2587,6 +2587,18 @@ input, select, textarea {
 		}
 
 /* Image */
+.AdithyaDevi .content {
+    display: flex;
+    align-items: center;
+}
+
+.AdithyaDevi .image.main {
+    margin-right: 20px; /* Adjust the space between the image and text as needed */
+}
+
+.AdithyaDevi .text {
+    max-width: 600px; /* Adjust the text block width if needed */
+}
 
 	.image {
 		border: 0;
